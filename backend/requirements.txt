@@ -1,0 +1,29 @@
+# --- Web framework ---------------------------------------------------------
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+
+# --- Settings / validation --------------------------------------------------
+pydantic==2.10.4
+pydantic-settings==2.7.1
+
+# --- LangChain core + integrations ------------------------------------------
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-community==0.3.14
+langchain-text-splitters==0.3.5
+langchain-google-genai==2.0.8
+langchain-chroma==0.2.0
+
+# --- Vector database ---------------------------------------------------------
+chromadb==0.5.23
+
+# --- PDF loading ---------------------------------------------------------------
+pypdf==5.1.0
+
+# --- Frontend (Streamlit) -----------------------------------------------------
+streamlit==1.41.1
+requests==2.32.3
+
+# --- Environment variables ----------------------------------------------------
+python-dotenv==1.0.1
