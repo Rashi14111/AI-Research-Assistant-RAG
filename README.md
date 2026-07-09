@@ -294,7 +294,6 @@ The screenshot below demonstrates the main interface of the AI Research Assistan
 
 # 🔮 Future Enhancements
 
-- Multi-document retrieval
 - OCR support for scanned PDFs
 - Authentication & user accounts
 - Cloud deployment
