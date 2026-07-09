@@ -283,18 +283,13 @@ The assistant is configured to:
 
 ---
 
-# 📷 Screenshots
+## 📸 Application Preview
 
-> Add screenshots after completing the project.
+<p align="center">
+  <img src="screenshots/app-preview.png" alt="AI Research Assistant" width="1000"/>
+</p>
 
-| Home | Chat |
-|------|------|
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
-| PDF Upload | Source Citations |
-|------------|------------------|
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
+The screenshot below demonstrates the main interface of the AI Research Assistant, including document upload, semantic retrieval, conversational question answering, and source citations.
 ---
 
 # 🔮 Future Enhancements
